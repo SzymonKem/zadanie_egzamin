@@ -4,6 +4,13 @@
     color: #222;
     width: 90%;
     margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#banery{
+    width: 100%;
+    display: flex;
 }
 
 div{
