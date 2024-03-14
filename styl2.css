@@ -13,18 +13,18 @@
     display: flex;
 }
 
-div{
+#banery > div{
     background-color: black;
     color: white;
     width:50%;
     height: 100px;
 }
 
-main{
+#main{
     padding: 20px;
 }
 
-footer{
+#stopka{
     background-color: black;
     color:white;
     padding: 20px;
